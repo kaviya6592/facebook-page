@@ -44,16 +44,37 @@ align-items:center;
 
     
 }
+.line1{
+    height:1px;
+    width:200px;
+    
+}
+
+.line2{
+    height:1px;
+    width:200px;
+}
+
 
 .container1{
   
     position:relative;
     left:1500px;
     bottom:800px
+    
+    
    
 
 }
 
-.t1{
+.enter-data form{ 
     
+    
+    
+}
+
+.b2{
+background-color: darkgreen;
+border-radius: 20px;
+
 }
