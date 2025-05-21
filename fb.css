@@ -1,0 +1,59 @@
+
+    body{
+    background-color:rgb(188,206,225);
+    margin:0px;
+    
+    
+    
+}
+
+
+nav{
+
+background-color:rgb(5,67,134);
+display:flex;
+justify-content:space-between;
+padding:30px 5%;
+align-items:center;   
+}
+
+#b1{
+    background-color: rgb(93, 83, 162);
+
+}
+
+.container{
+  display:block;
+  justify-content:space-between;
+  padding:180px;
+    
+
+}
+.img2{
+
+    width:800px;
+    height:500px;
+    vertical-align: middle;
+    
+}
+
+.container h3{
+   
+   font-size:30px;
+   text-align: left;
+
+    
+}
+
+.container1{
+  
+    position:relative;
+    left:1500px;
+    bottom:800px
+   
+
+}
+
+.t1{
+    
+}
